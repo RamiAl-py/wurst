@@ -1,2 +1,2 @@
 # wurst
-kennenlernen
+Wir lernen Githu kennen
